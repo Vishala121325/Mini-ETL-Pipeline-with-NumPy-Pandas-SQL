@@ -27,11 +27,10 @@ This project is part of my **Predictive Maintenance / Data Engineering learning 
 
 ## Project Structure
 Week2-ETL-Pipeline/
-│
-├── etl_pipeline.ipynb # Main Colab notebook with ETL code
-├── README.md
-└── data/
-└── Dataset-SA.csv # Example dataset (not included)
+# etl_pipeline.ipynb # Main Colab notebook with ETL code
+# README.md
+# data/
+-- Dataset-SA.csv # Example dataset (not included)
 
 ---
 
@@ -77,7 +76,7 @@ Run the ETL pipeline cells: extract → transform → load.
 
 Run example SQL queries on the cleaned database.
 
-Optionally, download the resulting SQLite database:
+Optionally, download the resulting SQLite database:```
 
 ---
 
