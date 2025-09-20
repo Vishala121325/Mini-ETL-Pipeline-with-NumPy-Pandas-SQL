@@ -30,7 +30,7 @@ Week2-ETL-Pipeline/
 - etl_pipeline.ipynb # Main Colab notebook with ETL code
 - README.md
 - data/
--- Dataset-SA.csv # Example dataset (not included)
+-- Dataset-SA.csv 
 
 ---
 
