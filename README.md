@@ -27,9 +27,9 @@ This project is part of my **Predictive Maintenance / Data Engineering learning 
 
 ## Project Structure
 Week2-ETL-Pipeline/
-# etl_pipeline.ipynb # Main Colab notebook with ETL code
-# README.md
-# data/
+- etl_pipeline.ipynb # Main Colab notebook with ETL code
+- README.md
+- data/
 -- Dataset-SA.csv # Example dataset (not included)
 
 ---
