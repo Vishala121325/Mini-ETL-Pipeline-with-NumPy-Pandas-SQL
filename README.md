@@ -76,7 +76,7 @@ Run the ETL pipeline cells: extract → transform → load.
 
 Run example SQL queries on the cleaned database.
 
-Optionally, download the resulting SQLite database:```
+Optionally, download the resulting SQLite database.
 
 ---
 
